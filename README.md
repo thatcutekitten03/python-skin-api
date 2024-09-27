@@ -1,5 +1,10 @@
 # Py-Skin-Api
 is a small code snipped for downloading a minecraft skin using only the name of the player, no uuid needed!
+## You need to download the following Libraries if run directly with python:
+```
+pip install urllib
+pip install pil
+```
 ## examples:
 ```skin duskoirre```<br>
 ```skin cutekitten03```<br>
